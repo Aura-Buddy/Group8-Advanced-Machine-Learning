@@ -1,10 +1,6 @@
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
 
-If you're running on MATLAB IDE, following the below instructions
-Instructions for setting up MatConvNet
-1. Download this repository and upload this to a MatLab IDE
-2. Run the `Getting Started` Script
-3. Ensure that you are in the 'Advanced Machine Learning Group 8/matconvnet-1.0-beta25' directory
-4. Run `vl_testnn` to ensure the library is ready to use
-5. Run the commands `mex -setup` `mex -setup C++` to prepare the IDE for compiling the library
+It is recommended that you use the MATLAB Desktop Application, using the Online IDE does not allow you to compile the network with a GPU which is needed.
+
+For full instructions on how to set up, please use this resource, https://www.youtube.com/watch?v=DWNyp1xZ-ks
