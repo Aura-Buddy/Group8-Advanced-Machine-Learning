@@ -1,6 +1,9 @@
 % This script will import necessary files for MatConvNet toolbox for Convolutional Neural Networks.
 % This script is intended to be run in MatLab
 
+%Set up mex
+mex -setup
+
 % Install and compile MatConvNet (needed once).
 untar('http://www.vlfeat.org/matconvnet/download/matconvnet-1.0-beta25.tar.gz') ;
 cd matconvnet-1.0-beta25
