@@ -1,8 +1,6 @@
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
 
-If you're running on MATLAB desktop application
-Install the MinGW compiler, you can do this by going to your `MATLAB` **Home** tab, in the **Environment** section, click **Add-Ons > Get Add-Ons** and search for `MinGW`
 If you're running on MATLAB IDE, following the below instructions
 Instructions for setting up MatConvNet
 1. Download this repository and upload this to a MatLab IDE
