@@ -9,4 +9,4 @@ Instructions for setting up MatConvNet
 2. Run the `Getting Started` Script
 3. Ensure that you are in the 'Advanced Machine Learning Group 8/matconvnet-1.0-beta25' directory
 4. Run `vl_testnn` to ensure the library is ready to use
-5. Run the command `mex -setup mex -setup C++` to prepare the IDE for compiling the library
+5. Run the commands `mex -setup` `mex -setup C++` to prepare the IDE for compiling the library
