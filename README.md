@@ -8,6 +8,9 @@
 | TCA  | Content Cell  | Content Cell  |  Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |
 | Coral  | 54.42 | 51.70  |  48.26  | 95.97  | 47.27 |  98.59  |  66.04 |
 | **Coral**  | **37.9** | **39.5**  |  **38.3**  | **85.7**  | **37.8** |  **84.4**  |  **53.9** |
+|JDA | 59.24 | 58.62 | 51.35 | 96.86 | 52.34 | 97.79 | 69.37 |
+|**JDA** | **** | **** | **** | **** | **** | **** | **** |
+
 
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
