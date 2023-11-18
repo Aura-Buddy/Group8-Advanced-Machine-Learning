@@ -1,3 +1,9 @@
+# Results
+| Expt.  | A -> D | A -> W | D -> A | D -> W | W -> A | W -> D | Avg |
+| ------ | -------- |  -------- | -------- | -------- | -------- | -------- | -------- |
+| GFK  | Content Cell  |  Content Cell  |  Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |
+| TCA  | Content Cell  | Content Cell  |  Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |   Content Cell  |
+
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
 
