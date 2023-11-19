@@ -42,6 +42,9 @@
 |DAH | 31.64 | 40.75 | 51.73 | 34.69 | 51.93 | 52.79 | 29.91 | 39.63 | 60.71 | 44.99 | 45.13 | 62.54 | 45.54 |
 | **DAH** | **12.7** | **22.7** | **23.9** | **34.2** | **31.8** | **26.0** | **18.9** | **14.8** | **25.6** | **20.1** | **20.7** | **32.5** | **23.65** |
 
+## Small Demo
+[!Accuracy of Domain Adaptation from Product Dataset to ClipArt Dataset](https://youtu.be/VM4FEwX917M)
+
 
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
