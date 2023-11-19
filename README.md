@@ -44,11 +44,14 @@
 
 ## Small Demo 
 
-[Accuracy of Domain Adaptation from Product Dataset to ClipArt Dataset]
+![neural network training](https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/assets/60584223/e74616e8-1d5f-4ed8-81ee-38df8462053a)
 
-https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/assets/60584223/a9b9ce89-8b97-47cc-9c97-2702d8cf7f84
+Accuracy of Domain Adaptation from Product Dataset to ClipArt Dataset
 
-[net-train.pdf](https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/files/13401781/net-train.pdf)
+https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/assets/60584223/41feed40-49fb-47a0-ae27-6b0e74c15e42
+
+
+
 
 
 
