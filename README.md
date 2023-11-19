@@ -42,11 +42,15 @@
 |DAH | 31.64 | 40.75 | 51.73 | 34.69 | 51.93 | 52.79 | 29.91 | 39.63 | 60.71 | 44.99 | 45.13 | 62.54 | 45.54 |
 | **DAH** | **12.7** | **22.7** | **23.9** | **34.2** | **31.8** | **26.0** | **18.9** | **14.8** | **25.6** | **20.1** | **20.7** | **32.5** | **23.65** |
 
-## Small Demo - Accuracy of Domain Adaptation from Product Dataset to ClipArt Dataset
+## Small Demo 
+
+[Accuracy of Domain Adaptation from Product Dataset to ClipArt Dataset]
 
 https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/assets/60584223/a9b9ce89-8b97-47cc-9c97-2702d8cf7f84
 
-[Neural Network Training](https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/files/13401778/net-train.pdf)
+[net-train.pdf](https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/files/13401781/net-train.pdf)
+
+
 
 
 # Group8-Advanced-Machine-Learning
