@@ -26,7 +26,7 @@
 | Expt | Ar→Cl | Ar→Pr |  Ar→Rw | Cl→Ar | Cl→Pr | Cl→Rw | Pr→Ar | Pr→Cl | Pr→Rw | Rw→Ar | Rw→Cl | Rw→Pr | Avg |
 | --- | --- |  --- | --- | --- | --- | --- | --- | --- | --- |  --- | --- | --- | --- |
 |GFK | 21.60 | 31.72 | 38.83 | 21.63 | 34.94 | 34.20 | 24.52 | 25.73 | 42.92 | 32.88 | 28.96 | 50.89 | 32.40 |
-| **GFK** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** |
+| **GFK** | **37.7** | **63.8** | **73.2** | **52.8** | **55.4** | **59** | **51.6** | **40.5** | **73.3** | **62** | **43.8** | **75.8** | **57.4** |
 |TCA | 19.93 | 32.08 | 35.71 | 19.00 | 31.36 | 31.74 | 21.92 | 23.64 | 42.12 | 30.74 | 27.15 | 48.68 | 30.34 |
 | **TCA** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** | **** |
 |CORAL | 27.10 | 36.16 | 44.32 | 26.08 | 40.03 | 40.33 | 27.77 | 30.54 | 50.61 | 38.48 | 36.36 | 57.11 |  37.91 |
@@ -59,11 +59,11 @@ https://github.com/Aura-Buddy/Group8-Advanced-Machine-Learning/assets/60584223/4
 # Group8-Advanced-Machine-Learning
 This repository contains the script and supporting documentation for the Advanced Machine Learning Project at the University of Texas at San Antonio
 
-## Prerequisite Applications
+## Environment that this Code was run on
 
 * MATLAB version 2017b
 * Visual Studio Community Version 2017
-* Nvidia CUDA 8.0
+* Ubuntu 20.04
 
 ## Prerequisite GitHub Repos
 
